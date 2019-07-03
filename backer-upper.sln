@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backer-upper", "backer-upper\backer-upper.csproj", "{2F018401-D955-4864-9C4F-D927BD4A8B7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F018401-D955-4864-9C4F-D927BD4A8B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F018401-D955-4864-9C4F-D927BD4A8B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F018401-D955-4864-9C4F-D927BD4A8B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F018401-D955-4864-9C4F-D927BD4A8B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D578AD4-6861-4EF5-ACE9-B3E98D420069}
+	EndGlobalSection
+EndGlobal
